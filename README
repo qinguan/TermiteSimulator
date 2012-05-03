@@ -1,5 +1,5 @@
 hello!
-I have to design a simulator that will maintain an environment, which consists of a collection of patches arranged in a rectangular grid of arbitrary size. Each patch contains zero or more wood chips. A patch may be occupied by one or more workertermites or soldiertermites, which are mobile entities that live within the world and behave according to simple rules.
+I had design a simulator that will maintain an environment, which consists of a collection of patches arranged in a rectangular grid of arbitrary size. Each patch contains zero or more wood chips. A patch may be occupied by one or more workertermites or soldiertermites, which are mobile entities that live within the world and behave according to simple rules.
 
 A WORKERTERMITE can pick up a wood chip from the patch that it is currently on, or drop a wood chip that it is carrying when the patch has a wood. Termites travel around the grid by moving randomly from their current patch to a neighbouring patch, in one of eight possible directions.
 
