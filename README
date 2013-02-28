@@ -8,6 +8,6 @@ A SOLDIERTERMITE moves in a similar way to termites.
 Usage:
 1. Create a new Java Project with Eclipse,for example: TermiteSimulator;
 2. Copy the code under src to TermiteSimulator/src;
-3. GUI Mode: Right click the TermiteSimulator/src/gui/GraphDisplay and Select Run As Java Application;
+3. GUI Mode: Right click the TermiteSimulator/src/gui/GraphDisplay.php and Select Run As Java Application;
    Or
    Text Mode: Right click the TermiteSimulator/src/simulator/Simulator.java and Select Run As Java Application;
