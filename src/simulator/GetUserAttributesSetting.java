@@ -3,8 +3,6 @@ package simulator;
 import java.lang.System;
 import java.io.*;
 
-import com.sun.org.apache.bcel.internal.generic.NEW;
-
 import core.SimulatorAttribute;
 
 
