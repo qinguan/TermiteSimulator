@@ -18,8 +18,6 @@ import javax.swing.JButton;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
-import com.sun.org.apache.xalan.internal.xsltc.compiler.Template;
-
 import core.BaseEntity;
 import core.Patch;
 import core.SimulatorAttribute;
